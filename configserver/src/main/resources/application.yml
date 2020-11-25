@@ -7,10 +7,10 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/150BigDream/SrpingCloundDemo.git
+          uri: https://github.com/150BigDream/SpringCloudDemo
           searchPaths: config
           username: 150BigDream
-          password: admin
+          password:
       label: master
 eureka:
   client:
